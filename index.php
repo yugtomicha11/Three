@@ -1,5 +1,5 @@
 <?php
 
-echo "This application works
+echo "This application works";
 
 ?>
